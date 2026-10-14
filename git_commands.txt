@@ -10,4 +10,10 @@ git commit -m "added testing files"
 git status                                                                                                                                                                                                                                                                                                                                                  
 git status                                                                                                                                                                                                          
 git restore testing.py                                                                                                                                                                                              
+git status                                                  
 git status                                                                                                                                                                                                          
+git push origin master                                                                                                                                                                                              
+git remote -v                                                                                                                                                                                                       
+git remote set-url origin https://sameerrana7/Github-for-devops-workshop.git                                                                                    
+git remote -v                                                                                                                                                                                                       
+git push origin master                                                                                                                                                                                              
